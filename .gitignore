@@ -1,0 +1,4 @@
+node_modules/
+.cursor/
+*.db3*
+.env
